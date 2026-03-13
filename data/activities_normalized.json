@@ -52204,5 +52204,31 @@
     "start_date_local": "2026-03-12T06:58:33Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 10219.3,
+    "elevation_gain": 0.0,
+    "id": "17707351981",
+    "moving_time": 3006.0,
+    "name": "milly",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-13T07:39:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17707491913",
+    "moving_time": 437.0,
+    "name": "Mobility",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-13T08:38:53Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]

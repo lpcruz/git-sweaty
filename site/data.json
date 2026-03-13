@@ -36141,6 +36141,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17695464414",
       "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 7,
+      "name": "milly",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17707351981",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 8,
+      "name": "Mobility",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17707491913",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -68432,6 +68450,15 @@
           "distance": 12756.9,
           "elevation_gain": 10.0,
           "moving_time": 3748.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17707351981"
+          ],
+          "count": 1,
+          "distance": 10219.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3006.0
         }
       },
       "Swim": {
@@ -69039,11 +69066,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 688.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17707491913"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 437.0
         }
       }
     }
   },
-  "generated_at": "2026-03-12T16:51:08.918408+00:00",
+  "generated_at": "2026-03-13T15:42:03.098063+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
