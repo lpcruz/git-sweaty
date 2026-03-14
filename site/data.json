@@ -36159,6 +36159,42 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17707491913",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 7,
+      "name": "w/u",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17717713134",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 7,
+      "name": "LTC \ud83d\udea9",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17718724367",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 8,
+      "name": "c/d",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17718731325",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 10,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17720117849",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -68459,6 +68495,17 @@
           "distance": 10219.3,
           "elevation_gain": 0.0,
           "moving_time": 3006.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17717713134",
+            "17718724367",
+            "17718731325"
+          ],
+          "count": 3,
+          "distance": 14119.3,
+          "elevation_gain": 38.0,
+          "moving_time": 3898.0
         }
       },
       "Swim": {
@@ -68992,6 +69039,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1410.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17720117849"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
@@ -69079,7 +69135,7 @@
       }
     }
   },
-  "generated_at": "2026-03-13T15:42:03.098063+00:00",
+  "generated_at": "2026-03-14T15:28:14.361440+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
