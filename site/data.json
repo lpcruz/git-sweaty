@@ -36190,10 +36190,28 @@
     {
       "date": "2026-03-14",
       "hour": 10,
-      "name": "Morning Workout",
+      "name": "plunge",
       "subtype": "Workout",
       "type": "Workout",
       "url": "https://www.strava.com/activities/17720117849",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17721696609",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17724330741",
       "year": 2026
     }
   ],
@@ -68576,6 +68594,15 @@
           "distance": 1612.1,
           "elevation_gain": 12.0,
           "moving_time": 1714.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17724330741"
+          ],
+          "count": 1,
+          "distance": 2014.9,
+          "elevation_gain": 19.0,
+          "moving_time": 1437.0
         }
       },
       "WeightTraining": {
@@ -68875,6 +68902,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2555.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17721696609"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2295.0
         }
       },
       "Workout": {
@@ -69135,7 +69171,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:28:14.361440+00:00",
+  "generated_at": "2026-03-15T15:29:03.531304+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
