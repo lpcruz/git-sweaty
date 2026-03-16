@@ -52308,5 +52308,44 @@
     "start_date_local": "2026-03-14T17:28:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 14395.3,
+    "elevation_gain": 49.0,
+    "id": "17733230969",
+    "moving_time": 4501.0,
+    "name": "CONGRATS UNITED HALF RUNNERS \ud83d\udc4a",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-15T08:24:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 9897.5,
+    "elevation_gain": 0.0,
+    "id": "17740842008",
+    "moving_time": 3006.0,
+    "name": "ONCE AGAIN, IT\u2019S RACE WEEK \ud83c\udfc1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-16T06:13:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17740967616",
+    "moving_time": 1971.0,
+    "name": "Tick tock",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-16T07:06:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

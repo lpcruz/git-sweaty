@@ -36213,6 +36213,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17724330741",
       "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 8,
+      "name": "CONGRATS UNITED HALF RUNNERS \ud83d\udc4a",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17733230969",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 6,
+      "name": "ONCE AGAIN, IT\u2019S RACE WEEK \ud83c\udfc1",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17740842008",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 7,
+      "name": "Tick tock",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17740967616",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -68524,6 +68551,24 @@
           "distance": 14119.3,
           "elevation_gain": 38.0,
           "moving_time": 3898.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17733230969"
+          ],
+          "count": 1,
+          "distance": 14395.3,
+          "elevation_gain": 49.0,
+          "moving_time": 4501.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17740842008"
+          ],
+          "count": 1,
+          "distance": 9897.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3006.0
         }
       },
       "Swim": {
@@ -68911,6 +68956,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2295.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17740967616"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1971.0
         }
       },
       "Workout": {
@@ -69171,7 +69225,7 @@
       }
     }
   },
-  "generated_at": "2026-03-15T15:29:03.531304+00:00",
+  "generated_at": "2026-03-16T16:04:37.108932+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
