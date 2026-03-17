@@ -36240,6 +36240,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17740967616",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 7,
+      "name": "wiiiiiindsor \ud83d\udca8",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17752784129",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -68569,6 +68578,15 @@
           "distance": 9897.5,
           "elevation_gain": 0.0,
           "moving_time": 3006.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17752784129"
+          ],
+          "count": 1,
+          "distance": 8153.8,
+          "elevation_gain": 38.0,
+          "moving_time": 2540.0
         }
       },
       "Swim": {
@@ -69225,7 +69243,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T16:04:37.108932+00:00",
+  "generated_at": "2026-03-17T16:05:58.260957+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
