@@ -36276,6 +36276,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17765390652",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 13,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17769645988",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 6,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17777325616",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 7,
+      "name": "plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17777863578",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69021,6 +69048,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1971.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17769645988"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2064.0
         }
       },
       "Workout": {
@@ -69194,6 +69230,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 181.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17777863578"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
@@ -69277,11 +69322,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 437.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17777325616"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3601.0
         }
       }
     }
   },
-  "generated_at": "2026-03-18T16:08:16.155121+00:00",
+  "generated_at": "2026-03-19T15:54:34.312781+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
