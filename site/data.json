@@ -36343,7 +36343,7 @@
     {
       "date": "2026-03-21",
       "hour": 7,
-      "name": "Morning Run",
+      "name": "w/u",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17801994871",
@@ -36352,7 +36352,7 @@
     {
       "date": "2026-03-21",
       "hour": 8,
-      "name": "Morning Run",
+      "name": "PROJECT 13.1",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17803418536",
@@ -36361,10 +36361,46 @@
     {
       "date": "2026-03-21",
       "hour": 10,
-      "name": "Morning Run",
+      "name": "c/d",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/17803747536",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 11,
+      "name": "contrast",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17808464820",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17808743229",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 7,
+      "name": "a very easy run.",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17814956154",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 8,
+      "name": "plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17815548996",
       "year": 2026
     }
   ],
@@ -68735,6 +68771,15 @@
           "distance": 26421.500000000004,
           "elevation_gain": 29.0,
           "moving_time": 6691.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17814956154"
+          ],
+          "count": 1,
+          "distance": 8286.6,
+          "elevation_gain": 58.0,
+          "moving_time": 2700.0
         }
       },
       "Swim": {
@@ -68823,6 +68868,15 @@
           "distance": 1611.2,
           "elevation_gain": 16.0,
           "moving_time": 1201.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17808743229"
+          ],
+          "count": 1,
+          "distance": 1615.3,
+          "elevation_gain": 9.0,
+          "moving_time": 1225.0
         }
       },
       "WeightTraining": {
@@ -69340,6 +69394,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 182.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17808464820"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3140.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17815548996"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
@@ -69445,7 +69517,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:25:22.451316+00:00",
+  "generated_at": "2026-03-22T15:26:00.288101+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
