@@ -36420,6 +36420,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/17826905999",
       "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 7,
+      "name": "still room to improve \ud83d\udccb",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17839290523",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 9,
+      "name": "plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17840534247",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -68807,6 +68825,15 @@
           "distance": 8095.0,
           "elevation_gain": 0.0,
           "moving_time": 2412.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17839290523"
+          ],
+          "count": 1,
+          "distance": 8140.6,
+          "elevation_gain": 30.0,
+          "moving_time": 2400.0
         }
       },
       "Swim": {
@@ -69448,6 +69475,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 181.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17840534247"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
@@ -69553,7 +69589,7 @@
       }
     }
   },
-  "generated_at": "2026-03-23T15:59:46.464113+00:00",
+  "generated_at": "2026-03-24T16:06:33.949447+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
