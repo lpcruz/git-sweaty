@@ -52614,7 +52614,7 @@
     "elevation_gain": 30.0,
     "id": "17839290523",
     "moving_time": 2400.0,
-    "name": "still room to improve \ud83d\udccb",
+    "name": "we\u2019ve got room to improve \ud83d\udccb",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-03-24T07:16:19Z",
@@ -52632,6 +52632,45 @@
     "raw_type": "Workout",
     "start_date_local": "2026-03-24T09:38:05Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 3870.6,
+    "elevation_gain": 10.0,
+    "id": "17851322071",
+    "moving_time": 1201.0,
+    "name": "w/u",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T06:05:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 1883.7,
+    "elevation_gain": 1.0,
+    "id": "17851899212",
+    "moving_time": 602.0,
+    "name": "c/d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T07:11:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 4714.1,
+    "elevation_gain": 0.0,
+    "id": "17851899333",
+    "moving_time": 1292.0,
+    "name": "LTC \ud83d\udea9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T06:46:33Z",
+    "type": "Run",
     "year": 2026
   }
 ]
