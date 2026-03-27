@@ -52711,5 +52711,44 @@
     "start_date_local": "2026-03-26T10:01:29Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17870126900",
+    "moving_time": 1201.0,
+    "name": "Afternoon Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-03-26T16:50:04Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 8495.7,
+    "elevation_gain": 54.0,
+    "id": "17875545757",
+    "moving_time": 2571.0,
+    "name": "Bergenfield 5K Recon \ud83d\ude06",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T06:42:41Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17877872316",
+    "moving_time": 1821.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-27T10:51:48Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
