@@ -52750,5 +52750,44 @@
     "start_date_local": "2026-03-27T10:51:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 3646.7,
+    "elevation_gain": 15.0,
+    "id": "17886851478",
+    "moving_time": 1200.0,
+    "name": "w/u",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T07:03:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 9263.7,
+    "elevation_gain": 23.0,
+    "id": "17887794990",
+    "moving_time": 2759.0,
+    "name": "LTC \ud83d\udea9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T07:45:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 1604.2,
+    "elevation_gain": 0.0,
+    "id": "17887976322",
+    "moving_time": 604.0,
+    "name": "c/d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T08:36:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
