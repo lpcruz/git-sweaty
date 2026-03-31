@@ -52880,5 +52880,18 @@
     "start_date_local": "2026-03-30T10:10:13Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 12539.3,
+    "elevation_gain": 34.0,
+    "id": "17923794049",
+    "moving_time": 3740.0,
+    "name": "hum\u00e9do.",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T06:43:27Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
