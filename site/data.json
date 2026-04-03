@@ -36672,6 +36672,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/17950963458",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17961023615",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 7,
+      "name": "Barefoot strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17961403615",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69159,6 +69177,16 @@
           "distance": 12222.800000000001,
           "elevation_gain": 7.0,
           "moving_time": 3539.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17961023615",
+            "17961403615"
+          ],
+          "count": 2,
+          "distance": 12139.5,
+          "elevation_gain": 72.0,
+          "moving_time": 3729.0
         }
       },
       "Swim": {
@@ -70013,7 +70041,7 @@
       }
     }
   },
-  "generated_at": "2026-04-02T16:00:37.649906+00:00",
+  "generated_at": "2026-04-03T15:41:33.362777+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",

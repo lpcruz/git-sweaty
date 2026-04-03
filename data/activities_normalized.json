@@ -52971,5 +52971,31 @@
     "start_date_local": "2026-04-02T10:11:05Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 11708.9,
+    "elevation_gain": 71.0,
+    "id": "17961023615",
+    "moving_time": 3602.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T06:43:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 430.6,
+    "elevation_gain": 1.0,
+    "id": "17961403615",
+    "moving_time": 127.0,
+    "name": "Barefoot strides",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T07:50:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
