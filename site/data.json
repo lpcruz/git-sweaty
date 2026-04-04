@@ -36690,6 +36690,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17961403615",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 7,
+      "name": "w/u",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17973489947",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 7,
+      "name": "moar up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17974655728",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 7,
+      "name": "LTC \ud83d\udea9",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17974656183",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 8,
+      "name": "c/d",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17974663162",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69187,6 +69223,18 @@
           "distance": 12139.5,
           "elevation_gain": 72.0,
           "moving_time": 3729.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17973489947",
+            "17974655728",
+            "17974656183",
+            "17974663162"
+          ],
+          "count": 4,
+          "distance": 14971.4,
+          "elevation_gain": 34.0,
+          "moving_time": 4010.0
         }
       },
       "Swim": {
@@ -70041,7 +70089,7 @@
       }
     }
   },
-  "generated_at": "2026-04-03T15:41:33.362777+00:00",
+  "generated_at": "2026-04-04T15:31:26.885903+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
