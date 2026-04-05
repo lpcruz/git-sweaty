@@ -36726,6 +36726,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17974663162",
       "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17977571599",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 14,
+      "name": "Contrast",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17979299157",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-05",
+      "hour": 6,
+      "name": "nice run with the LTC fellas",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17986809694",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69235,6 +69262,15 @@
           "distance": 14971.4,
           "elevation_gain": 34.0,
           "moving_time": 4010.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "17986809694"
+          ],
+          "count": 1,
+          "distance": 18364.6,
+          "elevation_gain": 21.0,
+          "moving_time": 5437.0
         }
       },
       "Swim": {
@@ -69712,6 +69748,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1847.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17977571599"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1733.0
         }
       },
       "Workout": {
@@ -69966,6 +70011,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3001.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17979299157"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2865.0
         }
       },
       "Yoga": {
@@ -70089,7 +70143,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:31:26.885903+00:00",
+  "generated_at": "2026-04-05T15:32:22.459450+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",

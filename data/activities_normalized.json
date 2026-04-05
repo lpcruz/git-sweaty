@@ -53049,5 +53049,44 @@
     "start_date_local": "2026-04-04T08:21:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17977571599",
+    "moving_time": 1733.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-04T11:56:02Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17979299157",
+    "moving_time": 2865.0,
+    "name": "Contrast",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-04T14:25:22Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 18364.6,
+    "elevation_gain": 21.0,
+    "id": "17986809694",
+    "moving_time": 5437.0,
+    "name": "nice run with the LTC fellas",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-05T06:34:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
