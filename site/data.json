@@ -36753,6 +36753,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17986809694",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 6,
+      "name": "Tready",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17998449606",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17998457535",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 8,
+      "name": "Plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18000157912",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69271,6 +69298,15 @@
           "distance": 18364.6,
           "elevation_gain": 21.0,
           "moving_time": 5437.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "17998449606"
+          ],
+          "count": 1,
+          "distance": 12150.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3614.0
         }
       },
       "Swim": {
@@ -69757,6 +69793,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1733.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "17998457535"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1919.0
         }
       },
       "Workout": {
@@ -70020,6 +70065,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2865.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "18000157912"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
@@ -70143,7 +70197,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T15:32:22.459450+00:00",
+  "generated_at": "2026-04-06T15:45:11.363940+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
