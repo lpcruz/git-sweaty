@@ -36780,6 +36780,24 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18000157912",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 6,
+      "name": "Spring Break Fah Different",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18011853028",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 10,
+      "name": "Plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18013465230",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69307,6 +69325,15 @@
           "distance": 12150.5,
           "elevation_gain": 0.0,
           "moving_time": 3614.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18011853028"
+          ],
+          "count": 1,
+          "distance": 12901.7,
+          "elevation_gain": 71.0,
+          "moving_time": 4015.0
         }
       },
       "Swim": {
@@ -70074,6 +70101,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 181.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18013465230"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 180.0
         }
       },
       "Yoga": {
@@ -70197,7 +70233,7 @@
       }
     }
   },
-  "generated_at": "2026-04-06T15:45:11.363940+00:00",
+  "generated_at": "2026-04-07T16:09:49.417504+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
