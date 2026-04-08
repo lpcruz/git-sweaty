@@ -53153,5 +53153,57 @@
     "start_date_local": "2026-04-07T10:02:57Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 1873.5,
+    "elevation_gain": 2.0,
+    "id": "18025745227",
+    "moving_time": 600.0,
+    "name": "c/d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T07:34:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 6697.9,
+    "elevation_gain": 81.0,
+    "id": "18025745328",
+    "moving_time": 2277.0,
+    "name": "LTC \ud83d\udea9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T06:51:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 4205.1,
+    "elevation_gain": 15.0,
+    "id": "18025746548",
+    "moving_time": 1366.0,
+    "name": "w/u",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T06:05:34Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18027167055",
+    "moving_time": 181.0,
+    "name": "Plunge",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-08T09:37:31Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
