@@ -53231,5 +53231,31 @@
     "start_date_local": "2026-04-09T06:55:27Z",
     "type": "Yoga",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18044305514",
+    "moving_time": 2773.0,
+    "name": "Contrast",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-09T13:08:18Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-10",
+    "distance": 10686.0,
+    "elevation_gain": 0.0,
+    "id": "18052070824",
+    "moving_time": 3260.0,
+    "name": "Tready",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-10T06:06:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
