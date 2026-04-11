@@ -53257,5 +53257,44 @@
     "start_date_local": "2026-04-10T06:06:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 3745.3,
+    "elevation_gain": 37.0,
+    "id": "18064324189",
+    "moving_time": 1202.0,
+    "name": "w/u",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T06:36:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 5660.9,
+    "elevation_gain": 0.0,
+    "id": "18064817596",
+    "moving_time": 1342.0,
+    "name": "3x1600",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T07:08:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 1730.0,
+    "elevation_gain": 8.0,
+    "id": "18065014924",
+    "moving_time": 597.0,
+    "name": "C/d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-11T07:33:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

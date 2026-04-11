@@ -36870,6 +36870,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18052070824",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 6,
+      "name": "w/u",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18064324189",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 7,
+      "name": "3x1600",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18064817596",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 7,
+      "name": "C/d",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18065014924",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69426,6 +69453,17 @@
           "distance": 10686.0,
           "elevation_gain": 0.0,
           "moving_time": 3260.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18064324189",
+            "18064817596",
+            "18065014924"
+          ],
+          "count": 3,
+          "distance": 11136.2,
+          "elevation_gain": 45.0,
+          "moving_time": 3141.0
         }
       },
       "Swim": {
@@ -70361,7 +70399,7 @@
       }
     }
   },
-  "generated_at": "2026-04-10T15:53:11.687464+00:00",
+  "generated_at": "2026-04-11T15:33:13.343751+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
