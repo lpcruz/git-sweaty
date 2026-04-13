@@ -53322,5 +53322,44 @@
     "start_date_local": "2026-04-12T07:43:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 969.8,
+    "elevation_gain": 0.0,
+    "id": "18084311675",
+    "moving_time": 1754.0,
+    "name": "Afternoon Cricket",
+    "raw_activity_type": "Workout",
+    "raw_type": "Cricket",
+    "start_date_local": "2026-04-12T14:14:21Z",
+    "type": "Cricket",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 12102.3,
+    "elevation_gain": 0.0,
+    "id": "18090427097",
+    "moving_time": 3603.0,
+    "name": "Tready",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-13T07:05:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18090719694",
+    "moving_time": 181.0,
+    "name": "Plunge",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-13T08:26:31Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]

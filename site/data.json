@@ -36915,6 +36915,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18079915807",
       "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 14,
+      "name": "Afternoon Cricket",
+      "subtype": "Cricket",
+      "type": "Cricket",
+      "url": "https://www.strava.com/activities/18084311675",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 7,
+      "name": "Tready",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18090427097",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 8,
+      "name": "Plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18090719694",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -68635,6 +68662,17 @@
       }
     },
     "2026": {
+      "Cricket": {
+        "2026-04-12": {
+          "activity_ids": [
+            "18084311675"
+          ],
+          "count": 1,
+          "distance": 969.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1754.0
+        }
+      },
       "Ride": {
         "2026-03-28": {
           "activity_ids": [
@@ -69491,6 +69529,15 @@
           "distance": 17914.5,
           "elevation_gain": 58.0,
           "moving_time": 5423.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18090427097"
+          ],
+          "count": 1,
+          "distance": 12102.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3603.0
         }
       },
       "Swim": {
@@ -70303,6 +70350,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2773.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18090719694"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
@@ -70435,7 +70491,7 @@
       }
     }
   },
-  "generated_at": "2026-04-12T15:35:39.894496+00:00",
+  "generated_at": "2026-04-13T16:12:04.718845+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
@@ -70447,6 +70503,10 @@
     "Canoeing": {
       "accent": "#9b5de5",
       "label": "Canoeing"
+    },
+    "Cricket": {
+      "accent": "#72efdd",
+      "label": "Cricket"
     },
     "Crossfit": {
       "accent": "#00bbf9",
@@ -70576,7 +70636,8 @@
     "Walk",
     "WeightTraining",
     "Workout",
-    "Yoga"
+    "Yoga",
+    "Cricket"
   ],
   "units": {
     "distance": "mi",

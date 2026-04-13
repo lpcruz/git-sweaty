@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T15:35:39.845202+00:00",
+  "generated_at": "2026-04-13T16:12:04.668620+00:00",
   "years": {
     "2014": {
       "Run": {
@@ -31718,6 +31718,17 @@
       }
     },
     "2026": {
+      "Cricket": {
+        "2026-04-12": {
+          "activity_ids": [
+            "18084311675"
+          ],
+          "count": 1,
+          "distance": 969.8,
+          "elevation_gain": 0.0,
+          "moving_time": 1754.0
+        }
+      },
       "Ride": {
         "2026-03-28": {
           "activity_ids": [
@@ -32574,6 +32585,15 @@
           "distance": 17914.5,
           "elevation_gain": 58.0,
           "moving_time": 5423.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18090427097"
+          ],
+          "count": 1,
+          "distance": 12102.3,
+          "elevation_gain": 0.0,
+          "moving_time": 3603.0
         }
       },
       "Swim": {
@@ -33386,6 +33406,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2773.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18090719694"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 181.0
         }
       },
       "Yoga": {
