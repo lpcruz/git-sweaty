@@ -53439,5 +53439,31 @@
     "start_date_local": "2026-04-15T10:57:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 2011.9,
+    "elevation_gain": 4.0,
+    "id": "18125498604",
+    "moving_time": 1938.0,
+    "name": "Family stroll",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-15T19:05:42Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18130836785",
+    "moving_time": 1815.0,
+    "name": "Morning Yoga",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-04-16T07:28:05Z",
+    "type": "Yoga",
+    "year": 2026
   }
 ]
