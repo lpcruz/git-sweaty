@@ -53491,5 +53491,44 @@
     "start_date_local": "2026-04-17T06:37:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 3649.9,
+    "elevation_gain": 5.0,
+    "id": "18156428598",
+    "moving_time": 1201.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T06:46:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 4886.9,
+    "elevation_gain": 0.0,
+    "id": "18156927339",
+    "moving_time": 1455.0,
+    "name": "2(8x200) \ud83d\udea9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T07:19:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 4881.8,
+    "elevation_gain": 5.0,
+    "id": "18158966752",
+    "moving_time": 1675.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T09:39:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
