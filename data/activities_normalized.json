@@ -53498,7 +53498,7 @@
     "elevation_gain": 5.0,
     "id": "18156428598",
     "moving_time": 1201.0,
-    "name": "Morning Run",
+    "name": "w/u",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-18T06:46:08Z",
@@ -53524,10 +53524,23 @@
     "elevation_gain": 5.0,
     "id": "18158966752",
     "moving_time": 1675.0,
-    "name": "Morning Run",
+    "name": "Call it a c/d",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-18T09:39:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 21318.4,
+    "elevation_gain": 64.0,
+    "id": "18172946345",
+    "moving_time": 6631.0,
+    "name": "JC Half Marathon 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T07:02:24Z",
     "type": "Run",
     "year": 2026
   }

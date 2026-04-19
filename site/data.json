@@ -37036,7 +37036,7 @@
     {
       "date": "2026-04-18",
       "hour": 6,
-      "name": "Morning Run",
+      "name": "w/u",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18156428598",
@@ -37054,10 +37054,19 @@
     {
       "date": "2026-04-18",
       "hour": 9,
-      "name": "Morning Run",
+      "name": "Call it a c/d",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18158966752",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 7,
+      "name": "JC Half Marathon 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18172946345",
       "year": 2026
     }
   ],
@@ -69695,6 +69704,15 @@
           "distance": 13418.599999999999,
           "elevation_gain": 10.0,
           "moving_time": 4331.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18172946345"
+          ],
+          "count": 1,
+          "distance": 21318.4,
+          "elevation_gain": 64.0,
+          "moving_time": 6631.0
         }
       },
       "Swim": {
@@ -70693,7 +70711,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:37:01.001385+00:00",
+  "generated_at": "2026-04-19T15:37:14.405569+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
