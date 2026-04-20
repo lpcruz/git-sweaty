@@ -37068,6 +37068,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18172946345",
       "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 7,
+      "name": "Tready",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18183365027",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 9,
+      "name": "Plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18184610425",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -69713,6 +69731,15 @@
           "distance": 21318.4,
           "elevation_gain": 64.0,
           "moving_time": 6631.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18183365027"
+          ],
+          "count": 1,
+          "distance": 9720.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3003.0
         }
       },
       "Swim": {
@@ -70570,6 +70597,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3029.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18184610425"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 183.0
         }
       },
       "Yoga": {
@@ -70711,7 +70747,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:37:14.405569+00:00",
+  "generated_at": "2026-04-20T16:08:23.772498+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
