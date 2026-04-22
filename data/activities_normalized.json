@@ -53595,5 +53595,70 @@
     "start_date_local": "2026-04-21T09:24:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18199913291",
+    "moving_time": 181.0,
+    "name": "Plunge",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-21T12:21:52Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 4042.5,
+    "elevation_gain": 17.0,
+    "id": "18210808953",
+    "moving_time": 1214.0,
+    "name": "w/u",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T06:04:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 1819.3,
+    "elevation_gain": 5.0,
+    "id": "18210815676",
+    "moving_time": 608.0,
+    "name": "c/d",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T07:26:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 5726.5,
+    "elevation_gain": 0.0,
+    "id": "18210816532",
+    "moving_time": 1634.0,
+    "name": "LTC \ud83d\udea9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T06:46:25Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18212847783",
+    "moving_time": 2237.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-22T10:16:30Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
