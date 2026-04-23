@@ -36917,15 +36917,6 @@
       "year": 2026
     },
     {
-      "date": "2026-04-12",
-      "hour": 14,
-      "name": "Afternoon Cricket",
-      "subtype": "Cricket",
-      "type": "Cricket",
-      "url": "https://www.strava.com/activities/18084311675",
-      "year": 2026
-    },
-    {
       "date": "2026-04-13",
       "hour": 7,
       "name": "Tready",
@@ -37148,6 +37139,33 @@
       "subtype": "WeightTraining",
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18212847783",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 6,
+      "name": "Morning Yoga",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/18223956338",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 8,
+      "name": "Plunge",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18225469105",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18227467708",
       "year": 2026
     }
   ],
@@ -68869,17 +68887,6 @@
       }
     },
     "2026": {
-      "Cricket": {
-        "2026-04-12": {
-          "activity_ids": [
-            "18084311675"
-          ],
-          "count": 1,
-          "distance": 969.8,
-          "elevation_gain": 0.0,
-          "moving_time": 1754.0
-        }
-      },
       "Ride": {
         "2026-03-28": {
           "activity_ids": [
@@ -69938,6 +69945,15 @@
           "distance": 2011.9,
           "elevation_gain": 4.0,
           "moving_time": 1938.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18227467708"
+          ],
+          "count": 1,
+          "distance": 3691.4,
+          "elevation_gain": 22.0,
+          "moving_time": 2329.0
         }
       },
       "WeightTraining": {
@@ -70716,6 +70732,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 181.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18225469105"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 193.0
         }
       },
       "Yoga": {
@@ -70853,11 +70878,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1815.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18223956338"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1801.0
         }
       }
     }
   },
-  "generated_at": "2026-04-22T16:08:46.040357+00:00",
+  "generated_at": "2026-04-23T16:33:53.278476+00:00",
   "other_bucket": "OtherSports",
   "repo": "lpcruz/git-sweaty",
   "source": "strava",
@@ -70869,10 +70903,6 @@
     "Canoeing": {
       "accent": "#9b5de5",
       "label": "Canoeing"
-    },
-    "Cricket": {
-      "accent": "#72efdd",
-      "label": "Cricket"
     },
     "Crossfit": {
       "accent": "#00bbf9",
@@ -71002,8 +71032,7 @@
     "Walk",
     "WeightTraining",
     "Workout",
-    "Yoga",
-    "Cricket"
+    "Yoga"
   ],
   "units": {
     "distance": "mi",
